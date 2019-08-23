@@ -330,7 +330,7 @@ ASALocalRun/
 .mfractor/
 
 # PatformIO ignore file
-.pio
-.vscode/**
+.pio/
+.vscode/
 # Folder for presentation
 .secret/
