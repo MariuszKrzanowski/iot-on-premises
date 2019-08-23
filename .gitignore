@@ -332,4 +332,5 @@ ASALocalRun/
 # PatformIO ignore file
 .pio
 .vscode/**
+# Folder for presentation
 .secret/**
