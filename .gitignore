@@ -332,3 +332,4 @@ ASALocalRun/
 # PatformIO ignore file
 .pio
 .vscode/**
+.secret/**
