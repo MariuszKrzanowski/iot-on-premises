@@ -333,4 +333,4 @@ ASALocalRun/
 .pio
 .vscode/**
 # Folder for presentation
-.secret/**
+.secret/
