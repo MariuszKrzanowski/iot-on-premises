@@ -237,4 +237,5 @@ void loop()
   }
   handle_input_button();
   client.loop();
+  delay(5); // give a little rest for CPU. Less heat is produced.
 }
