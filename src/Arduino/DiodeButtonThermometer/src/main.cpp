@@ -115,7 +115,7 @@ void temparture(byte *sensorAddress, float celsius)
 void setup_temparture_reader()
 {
   tempartureReader.setCallback(temparture);
-  tempartureReader.begin(D7, 8000);
+  tempartureReader.begin(ONE_WIRE_PIN, 8000);
 }
 
 void callback(char *topic, byte *payload, unsigned int length)
