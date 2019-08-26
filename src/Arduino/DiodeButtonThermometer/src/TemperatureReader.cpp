@@ -219,4 +219,5 @@ void TemperatureReader::loop()
 void TemperatureReader::begin(int pin, uint64_t pauseBeforeNextRead)
 {
     this->dsRader = new OneWire(pin);
+    this->pauseBeforeNextRead=pauseBeforeNextRead;
 }
