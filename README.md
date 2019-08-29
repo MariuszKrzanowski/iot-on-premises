@@ -1,6 +1,6 @@
-# iot-on-premise
+# IoT on Premises
 
-This repository contains slides and source code for presentation IoT on premise. You can fing here three types of projects under src folder: 
+This repository contains slides and source code for presentation IoT on premises. You can fing here three types of projects under src folder: 
 
 * Subfolder Arduino is used by PlatformIO to build and deploy solution on ESP8266-01S and ESP8266-E12.
 * Subfolder Windows contain projects compiled and via Visual Stdio 2019.
