@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsSpeechTest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CognitiveServicesKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ENTER KEY</Value>
+    </Setting>
+    <Setting Name="CognitiveServicesRegion" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">westus</Value>
+    </Setting>
+    <Setting Name="MqttServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ENTER MQTT BROKER IP</Value>
+    </Setting>
+    <Setting Name="MqttUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ENTER MQTT USER</Value>
+    </Setting>
+    <Setting Name="MqttPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ENTER MQTT PASSWORD</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
