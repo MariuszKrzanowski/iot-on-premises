@@ -77,22 +77,22 @@ sudo systemctl enable mosquitto
 
 ## References
 
-Andreas Spiess
-                https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ
-GreatScott!
-                https://www.youtube.com/user/greatscottlab
-Richard Wenner
-                https://www.youtube.com/user/dicktonybo
-bitluni's lab
-                https://www.youtube.com/user/bitlunislab
-Kevin Darrah
-                https://www.youtube.com/user/kdarrah1234
-Electronoobs
-                https://www.youtube.com/channel/UCjiVhIvGmRZixSzupD0sS9Q
-Ben Eater
-                https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA
-AUTODESK ® TINKERCAD™
-                https://www.tinkercad.com/circuits
+- Andreas Spiess
+-- https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ
+- GreatScott!
+-- https://www.youtube.com/user/greatscottlab
+- Richard Wenner
+-- https://www.youtube.com/user/dicktonybo
+- bitluni's lab
+-- https://www.youtube.com/user/bitlunislab
+- Kevin Darrah
+-- https://www.youtube.com/user/kdarrah1234
+- Electronoobs
+-- https://www.youtube.com/channel/UCjiVhIvGmRZixSzupD0sS9Q
+- Ben Eater
+-- https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA
+- AUTODESK ® TINKERCAD™
+-- https://www.tinkercad.com/circuits
 
 ![Slide50.png](images/Slide50.png)
 ![Slide51.png](images/Slide51.png)
