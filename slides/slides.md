@@ -7,6 +7,18 @@
 ![Slide05.png](images/Slide05.png)
 ![Slide06.png](images/Slide06.png)
 ![Slide07.png](images/Slide07.png)
+
+## FYI: How to INSTALL Node-Red
+```
+sudo apt-get upate
+sudo apt-get upgrade
+
+sudo apt-get install nodered
+sudo systemctl enable nodered.service
+
+NOTE: from UI install: node-red-dashboard
+```
+
 ![Slide08.png](images/Slide08.png)
 ![Slide09.png](images/Slide09.png)
 ![Slide10.png](images/Slide10.png)
@@ -20,6 +32,19 @@
 ![Slide18.png](images/Slide18.png)
 ![Slide19.png](images/Slide19.png)
 ![Slide20.png](images/Slide20.png)
+
+## FYI: How to INSTAL Mosquitto?
+```
+sudo apt-get upate
+sudo apt-get upgrade
+
+sudo apt-get install mosquitto
+sudo apt-get install mosquitto-clients
+
+sudo mosquitto_passwd -c /etc/mosquitto/passwd IotUserMqtt
+sudo systemctl enable mosquitto
+```
+
 ![Slide21.png](images/Slide21.png)
 ![Slide22.png](images/Slide22.png)
 ![Slide23.png](images/Slide23.png)
@@ -49,6 +74,26 @@
 ![Slide47.png](images/Slide47.png)
 ![Slide48.png](images/Slide48.png)
 ![Slide49.png](images/Slide49.png)
+
+## References
+
+Andreas Spiess
+                https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ
+GreatScott!
+                https://www.youtube.com/user/greatscottlab
+Richard Wenner
+                https://www.youtube.com/user/dicktonybo
+bitluni's lab
+                https://www.youtube.com/user/bitlunislab
+Kevin Darrah
+                https://www.youtube.com/user/kdarrah1234
+Electronoobs
+                https://www.youtube.com/channel/UCjiVhIvGmRZixSzupD0sS9Q
+Ben Eater
+                https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA
+AUTODESK ® TINKERCAD™
+                https://www.tinkercad.com/circuits
+
 ![Slide50.png](images/Slide50.png)
 ![Slide51.png](images/Slide51.png)
 ![Slide52.png](images/Slide52.png)
