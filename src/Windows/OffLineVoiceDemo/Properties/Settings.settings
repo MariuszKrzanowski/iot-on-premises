@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SpeechToTextConsoleApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MqttServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ENTER MQTT BROKER IP</Value>
+    </Setting>
+    <Setting Name="MqttUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ENTER MQTT USER</Value>
+    </Setting>
+    <Setting Name="MqttPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ENTER MQTT PASSWORD</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
