@@ -8,7 +8,7 @@ void setup()
   delay(50);
   Serial.begin(115200);
   Serial.println();
-  Serial.println();
+  Serial.println(); 
   Serial.println("In setup");
 }
 

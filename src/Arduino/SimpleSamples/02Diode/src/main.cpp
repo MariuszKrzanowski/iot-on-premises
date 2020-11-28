@@ -3,7 +3,20 @@
 #define MY_LED_PIN 2
 #define baseTime 300
 
-String text = String("... --- ... .-- --. -. . -"); // SOS WG NET in Morse Code
+// HELLO WORLD in Morse Code
+// H ....
+// E .
+// L .-..
+// L .-..
+// O ---
+//
+// W .--
+// O ---
+// R .-.
+// L .-..
+// D -..
+
+String text = String(".... . .-.. .-.. --- .-- --- .-. .-.. -.."); 
 int position;
 
 void setup()
@@ -13,7 +26,6 @@ void setup()
 
   delay(50);
   Serial.begin(115200);
-  Serial.println();
   Serial.println();
   Serial.println();
   Serial.println("In setup");
