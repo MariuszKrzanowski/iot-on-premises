@@ -1,0 +1,57 @@
+{
+    "dialogue": {
+        "system": "rhasspy"
+    },
+    "handle": {
+        "system": "command"
+    },
+    "intent": {
+        "command": {
+            "program": "echo"
+        },
+        "fuzzywuzzy": {
+            "min_confidence": ".9"
+        },
+        "system": "fuzzywuzzy"
+    },
+    "microphone": {
+        "arecord": {
+            "device": "default"
+        },
+        "system": "pyaudio"
+    },
+    "mqtt": {
+        "enabled": "true",
+        "host": "192.169.168.10",
+        "password": "IotPasswordMqtt",
+        "site_id": "testing",
+        "username": "IotUserMqtt"
+    },
+    "sounds": {
+        "aplay": {
+            "device": "default"
+        },
+        "system": "aplay"
+    },
+    "speech_to_text": {
+        "kaldi": {
+            "mix_weight": "0.7"
+        },
+        "system": "pocketsphinx"
+    },
+    "text_to_speech": {
+        "espeak": {
+            "voice": "en-gb"
+        },
+        "nanotts": {
+            "language": "en-US"
+        },
+        "picotts": {
+            "language": "en-US"
+        },
+        "system": "espeak"
+    },
+    "wake": {
+        "system": "porcupine"
+    }
+}
