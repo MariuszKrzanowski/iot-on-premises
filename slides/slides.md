@@ -176,8 +176,6 @@ sudo systemctl enable mosquitto
     * https://www.youtube.com/channel/UCjiVhIvGmRZixSzupD0sS9Q
 * Ben Eater
     * https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA
-* AUTODESK ® TINKERCAD™
-    * https://www.tinkercad.com/circuits
 
 ## Where you can find me?
 
