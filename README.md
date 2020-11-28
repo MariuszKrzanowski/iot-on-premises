@@ -5,6 +5,7 @@ This repository contains slides and source code for presentation IoT on premises
 * Subfolder Arduino is used by PlatformIO to build and deploy solution on ESP8266-01S and ESP8266-E12.
 * Subfolder Windows contain projects to be compiled via Visual Stdio 2019.
 * Subfolder Node-Red contains various Node-Red flows used while presentation.
+* Subfolder rhasspy contains various Rhasspy configuration files used while presentation.
 
 ## NOTE
 
